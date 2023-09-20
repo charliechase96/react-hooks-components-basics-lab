@@ -7,7 +7,7 @@ function NavBar() {
     </nav>
   );
 }
-
+ 
 function Home() {
   return (
     <div id="home">
